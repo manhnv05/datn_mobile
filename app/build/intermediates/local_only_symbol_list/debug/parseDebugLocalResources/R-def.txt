@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color gold
+color jet
+color snow
+drawable ic_eye
+drawable ic_eye_off
+drawable ic_google
+string app_name
+style Theme.FashionShopCompose

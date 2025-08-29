@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gold">#FFD700</color>
+    <color name="jet">#121212</color>
+    <color name="snow">#FAFAFA</color>
+    <string name="app_name">FashionShop</string>
+    <style name="Theme.FashionShopCompose" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

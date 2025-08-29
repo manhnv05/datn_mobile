@@ -1,0 +1,7 @@
+<resources>
+    <!-- App theme inheriting from a framework Material theme -->
+    <style name="Theme.FashionShopCompose" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

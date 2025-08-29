@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.fashionshop.app-debug-58:/drawable_ic_eye_off.xml.flat",
+        "source": "com.fashionshop.app-main-60:/drawable/ic_eye_off.xml"
+    },
+    {
+        "merged": "com.fashionshop.app-debug-58:/drawable_ic_eye.xml.flat",
+        "source": "com.fashionshop.app-main-60:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.fashionshop.app-debug-58:/drawable_ic_google.xml.flat",
+        "source": "com.fashionshop.app-main-60:/drawable/ic_google.xml"
+    }
+]
